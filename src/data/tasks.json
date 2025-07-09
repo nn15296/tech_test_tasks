@@ -1,0 +1,65 @@
+[
+  {
+    "project": "Website Redesign",
+    "tasks": [
+      {
+        "title": "Create wireframes",
+        "description": "Design low-fidelity wireframes for the new homepage.",
+        "priority": "High",
+        "status": "In Progress",
+        "dueDate": "2025-07-15",
+        "timeEstimateHours": 8
+      },
+      {
+        "title": "Review color palette",
+        "description": "Select and approve a new color palette for the site.",
+        "priority": "Medium",
+        "status": "Not Started",
+        "dueDate": "2025-07-12",
+        "timeEstimateHours": 2
+      }
+    ]
+  },
+  {
+    "project": "Mobile App Launch",
+    "tasks": [
+      {
+        "title": "Implement push notifications",
+        "description": "Add push notification support for iOS and Android.",
+        "priority": "High",
+        "status": "Not Started",
+        "dueDate": "2025-07-20",
+        "timeEstimateHours": 12
+      },
+      {
+        "title": "Beta testing",
+        "description": "Coordinate beta testing with selected users and gather feedback.",
+        "priority": "Medium",
+        "status": "In Progress",
+        "dueDate": "2025-07-18",
+        "timeEstimateHours": 10
+      }
+    ]
+  },
+  {
+    "project": "Internal Tools Upgrade",
+    "tasks": [
+      {
+        "title": "Migrate database",
+        "description": "Move all data from legacy system to new PostgreSQL instance.",
+        "priority": "High",
+        "status": "Completed",
+        "dueDate": "2025-07-05",
+        "timeEstimateHours": 16
+      },
+      {
+        "title": "Update documentation",
+        "description": "Revise internal documentation to reflect new tool features.",
+        "priority": "Low",
+        "status": "Not Started",
+        "dueDate": "2025-07-30",
+        "timeEstimateHours": 4
+      }
+    ]
+  }
+]
