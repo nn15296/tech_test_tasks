@@ -9,7 +9,6 @@ function TaskDescription() {
                 <Stack direction="column" spacing={2}>
                     <Typography variant='h5'>Title</Typography>
                     <Typography variant='body1'>Description</Typography>
-                    <Typography variant='h6' color="primary">£99.99</Typography>
                 </Stack>
             </Grid>
         </Grid>
